@@ -18,6 +18,7 @@
   },
   "devDependencies": {},
   "keywords": [
-    "webpack","loader"
+    "webpack",
+    "loader"
   ]
 }
