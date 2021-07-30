@@ -1,0 +1,23 @@
+{
+  "name": "readme-original-loader",
+  "version": "0.0.3",
+  "description": "",
+  "license": "MIT",
+  "repository": "",
+  "author": "",
+  "homepage": "",
+  "bugs": "",
+  "main": "src/index.js",
+  "engines": {},
+  "scripts": {},
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "loader-utils": "^1.2.3"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "webpack","loader"
+  ]
+}
